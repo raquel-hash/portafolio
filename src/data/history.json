@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Desarrolladora Full Stack",
+    "organisation": "Seth Solution",
+    "startDate": "Sept, 2022",
+    "endDate": "Presente",
+    "experiences": [
+      "Diseño y gestión de bases de datos en PostgreSQL y MySQL",
+      "Desarrollo de funcionalidades en frontend y backend",
+      "Mantenimiento y optimización de aplicaciones existentes",
+      "Contribución al Sistema Plurinacional de Certificación de Competencias del Ministerio de Educación"
+    ],
+    "imageSrc": "history/seth_solution.jpg"
+  },
+  {
+    "role": "Desarrolladora Mobile",
+    "organisation": "TalentHud - Universidad Adventista de Bolivia",
+    "startDate": "Ene, 2024",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Colaboración con tutores y estudiantes para definir requerimientos",
+      "Desarrollo de una aplicación móvil con React Native",
+      "Pruebas para optimizar la usabilidad en distintos dispositivos"
+    ],
+    "imageSrc": "history/uab.png"
+  },
+  {
+    "role": "Auxiliar de Programación",
+    "organisation": "Universidad Adventista de Bolivia",
+    "startDate": "Feb, 2019",
+    "endDate": "Jun, 2019",
+    "experiences": [
+      "Enseñanza de introducción a la programación a estudiantes de primer semestre"
+    ],
+    "imageSrc": "history/uab.png"
+  }
+]
