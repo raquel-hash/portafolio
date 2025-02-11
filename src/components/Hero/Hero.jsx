@@ -1,5 +1,5 @@
 import styles from "./Hero.module.css";
-import heroImage from "./../../../assets/hero/heroImage.png";
+import heroImage from "/assets/hero/heroImage.png";
 
 const Hero = () => {
     return (

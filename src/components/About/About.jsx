@@ -1,8 +1,8 @@
 import styles from "./About.module.css";
-import aboutImage from "./../../../assets/about/aboutImage.png";
-import cursorIcon from "./../../../assets/about/cursorIcon.png";
-import serverIcon from "./../../../assets/about/serverIcon.png";
-import uiIcon from "./../../../assets/about/uiIcon.png";
+import aboutImage from "/assets/about/aboutImage.png";
+import cursorIcon from "/assets/about/cursorIcon.png";
+import serverIcon from "/assets/about/serverIcon.png";
+import uiIcon from "/assets/about/uiIcon.png";
 
 const About = () => {
     return (

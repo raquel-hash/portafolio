@@ -1,7 +1,7 @@
 import styles from "./Contact.module.css";
-import emailIcon from "./../../../assets/contact/emailIcon.png";
-import linkedinIcon from "./../../../assets/contact/linkedinIcon.png";
-import githubIcon from "./../../../assets/contact/githubIcon.png";
+import emailIcon from "/assets/contact/emailIcon.png";
+import linkedinIcon from "/assets/contact/linkedinIcon.png";
+import githubIcon from "/assets/contact/githubIcon.png";
 
 const Contact = () => {
     return (

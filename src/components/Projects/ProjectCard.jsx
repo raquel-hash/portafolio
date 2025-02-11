@@ -7,7 +7,7 @@ const ProjectCard = ({
     return (
         <div className={styles.container}>
             <img
-                src={`../../../assets/${imageSrc}`}
+                src={`/assets/${imageSrc}`}
                 alt={`Image of ${title}`}
                 className={styles.image}
             />
