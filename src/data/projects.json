@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Foro en Laravel",
+    "imageSrc": "projects/project1.PNG",
+    "description": "Este es un foro desarrollado en Laravel donde los usuarios pueden realizar preguntas, responder y editar comentarios dentro de distintas categorías. Usa Livewire para una experiencia interactiva y Vite para la gestión de estilos.",
+    "skills": ["Laravel", "Livewire", "Vite", "PHP", "MySQL"],
+    "demo": "https://www.ejemplo.com",
+    "source": "https://github.com/raquel-hash/forum"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Clon de Trello",
+    "imageSrc": "projects/project2.PNG",
+    "description": "Un clon de Trello construido con Angular y estilizado con TailwindCSS para gestionar tareas y tableros.",
+    "skills": ["Angular", "TailwindCSS", "TypeScript"],
+    "demo": "https://trello-clone-rho-six.vercel.app",
+    "source": "https://github.com/raquel-hash/trello-clone"
   }
 ]
